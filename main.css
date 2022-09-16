@@ -1,0 +1,57 @@
+
+h1{
+    
+    margin-bottom: 6%;
+        margin-top: 1%;
+        padding-left: 44%;
+        padding-top: 15px;
+    
+}
+.nav {
+    display: flex;
+    justify-content: space-around;
+}
+.nav {
+    margin: 0 200px;
+    list-style: none;
+    border
+}
+.number-one{
+    align: items 1px;;
+}
+.number-one{
+    padding-top: 14%;
+        padding-right: 80%;
+}
+.number-two {
+    padding-bottom: 8%;
+    padding-right: 0%;
+}
+.number-two{
+    align-items:inherit;
+}
+.number-two{
+        margin-left: 31%;
+            margin-top: -34%;
+}
+.number-three {
+    margin-left: 71%;
+    margin-top: -37%;
+    padding-bottom: 13%;
+    padding-right: 8%;
+}
+.number-four {
+    padding-left: 31%;
+}
+footer{
+    text-align: center;
+        padding: 25px 40px;
+        font-size: 16px;
+        color: #363945;
+        margin-bottom: 0;
+}
+.contact-section{
+    margin-left: 45%;
+        margin-top: 7%;
+        padding-bottom: 0%;
+        padding-right: 0%;
